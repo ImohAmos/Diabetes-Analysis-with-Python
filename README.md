@@ -14,4 +14,4 @@ A few years ago research was done on a tribe in America which is called the Pima
 ## Objective
 Here, we are analyzing different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis.
 
-See the full project here
+Dive into the full project _[HERE](https://github.com/ImohAmos/Diabetes-Analysis-with-Python/blob/main/Notebook%2BTemplate%2B-%2BPima%2BIndians%2BDiabetes%2BAnalysis.ipynb)_
