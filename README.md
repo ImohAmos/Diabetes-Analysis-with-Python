@@ -1,6 +1,8 @@
 # Diabetes-Analysis-with-Python
 Here, I looked into the different aspects of Diabetes in the Pima Indians tribe by doing Exploratory Data Analysis.
 
+![diabetes](https://user-images.githubusercontent.com/98132382/230724464-de710380-4f9e-427b-b5e0-b5b96c687b6d.jpg)
+
 #### This Project was one of my Foundations of Data Science Project during my data science course with MIT and Great Learning
 
 ## Introduction
